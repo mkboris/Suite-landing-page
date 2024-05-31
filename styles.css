@@ -120,6 +120,7 @@ textarea:not([rows]) {
 
 body {
   font-family: "Epilogue", sans-serif;
+  background-color: var(--creamwhite);
 }
 
 .header {
